@@ -1,0 +1,8 @@
+{
+  "machine": "purification",
+  "input": "technova:lead_shard",
+  "input_count": 1,
+  "result": "technova:lead_clump",
+  "result_count": 1,
+  "chemical_amount": 50
+}

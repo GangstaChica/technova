@@ -1,0 +1,8 @@
+{
+  "machine": "injection",
+  "input": "technova:tin_ore",
+  "input_count": 1,
+  "result": "technova:tin_shard",
+  "result_count": 4,
+  "chemical_amount": 100
+}

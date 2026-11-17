@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#L#",
+    "#G#"
+  ],
+  "key": {
+    "#": "technova:lead_ingot",
+    "L": "minecraft:leather",
+    "G": "minecraft:glass_pane"
+  },
+  "result": {
+    "id": "technova:hazmat_helmet",
+    "count": 1
+  }
+}

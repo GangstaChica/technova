@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IBI",
+    "ECE",
+    "IRI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "E": "technova:basic_circuit",
+    "C": "technova:machine_casing",
+    "B": "minecraft:bucket",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "technova:electrolytic_separator",
+    "count": 1
+  }
+}

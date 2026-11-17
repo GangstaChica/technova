@@ -1,0 +1,8 @@
+{
+  "machine": "purification",
+  "input": "technova:deepslate_uranium_ore",
+  "input_count": 1,
+  "result": "technova:uranium_clump",
+  "result_count": 3,
+  "chemical_amount": 50
+}

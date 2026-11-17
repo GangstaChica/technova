@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LCL",
+    "CMC",
+    "LEL"
+  ],
+  "key": {
+    "L": "technova:lead_ingot",
+    "C": "technova:basic_circuit",
+    "M": "technova:machine_casing",
+    "E": "technova:energy_tablet"
+  },
+  "result": {
+    "id": "technova:reactor_controller",
+    "count": 1
+  }
+}

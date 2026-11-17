@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "technova:tin_ore",
+    "technova:deepslate_tin_ore",
+    "technova:lead_ore",
+    "technova:deepslate_lead_ore",
+    "technova:sulfur_ore",
+    "technova:salt_ore",
+    "technova:tin_block",
+    "technova:lead_block",
+    "technova:combustion_generator",
+    "technova:solar_generator",
+    "technova:hydrogen_generator",
+    "technova:crusher",
+    "technova:enrichment_chamber",
+    "technova:electric_furnace",
+    "technova:purification_chamber",
+    "technova:injection_chamber",
+    "technova:dissolution_chamber",
+    "technova:chemical_infuser",
+    "technova:electrolytic_separator",
+    "technova:chemical_oxidizer",
+    "technova:chemical_tank",
+    "technova:energy_cube",
+    "technova:uranium_ore",
+    "technova:deepslate_uranium_ore",
+    "technova:uranium_block",
+    "technova:reactor_casing",
+    "technova:reactor_core",
+    "technova:reactor_controller"
+  ]
+}

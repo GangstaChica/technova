@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ITI",
+    "TGT",
+    "ITI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "T": "technova:tin_ingot",
+    "G": "minecraft:glass"
+  },
+  "result": {
+    "id": "technova:machine_casing",
+    "count": 2
+  }
+}

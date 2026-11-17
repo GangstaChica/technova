@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "technova:hazmat"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "technova:hazmat"
+      }
+    ]
+  }
+}

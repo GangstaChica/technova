@@ -1,0 +1,8 @@
+{
+  "a": "hydrogen",
+  "b": "chlorine",
+  "a_amount": 10,
+  "b_amount": 10,
+  "out": "hydrogen_chloride",
+  "out_amount": 20
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IKI",
+    "ECE",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "E": "technova:basic_circuit",
+    "C": "technova:machine_casing",
+    "K": "minecraft:cauldron"
+  },
+  "result": {
+    "id": "technova:dissolution_chamber",
+    "count": 1
+  }
+}

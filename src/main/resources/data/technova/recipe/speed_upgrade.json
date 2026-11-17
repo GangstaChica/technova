@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GCG",
+    "RTR",
+    "GCG"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "C": "technova:basic_circuit",
+    "R": "minecraft:redstone",
+    "T": "technova:tin_ingot"
+  },
+  "result": {
+    "id": "technova:speed_upgrade",
+    "count": 1
+  }
+}

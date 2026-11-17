@@ -1,0 +1,8 @@
+{
+  "machine": "smelter",
+  "input": "minecraft:raw_gold",
+  "input_count": 1,
+  "result": "minecraft:gold_ingot",
+  "result_count": 1,
+  "chemical_amount": 0
+}

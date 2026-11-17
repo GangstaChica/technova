@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "technova:tin_ingot"
+  },
+  "result": {
+    "id": "technova:tin_block",
+    "count": 1
+  }
+}

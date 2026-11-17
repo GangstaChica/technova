@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IHI",
+    "ECE",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "E": "technova:basic_circuit",
+    "C": "technova:machine_casing",
+    "H": "minecraft:hopper"
+  },
+  "result": {
+    "id": "technova:injection_chamber",
+    "count": 1
+  }
+}

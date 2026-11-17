@@ -1,0 +1,8 @@
+{
+  "machine": "smelter",
+  "input": "minecraft:deepslate_iron_ore",
+  "input_count": 1,
+  "result": "minecraft:iron_ingot",
+  "result_count": 1,
+  "chemical_amount": 0
+}

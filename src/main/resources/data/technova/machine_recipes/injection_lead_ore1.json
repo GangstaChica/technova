@@ -1,0 +1,8 @@
+{
+  "machine": "injection",
+  "input": "technova:deepslate_lead_ore",
+  "input_count": 1,
+  "result": "technova:lead_shard",
+  "result_count": 4,
+  "chemical_amount": 100
+}

@@ -1,0 +1,8 @@
+{
+  "machine": "smelter",
+  "input": "technova:tin_ore",
+  "input_count": 1,
+  "result": "technova:tin_ingot",
+  "result_count": 1,
+  "chemical_amount": 0
+}

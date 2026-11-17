@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GCG",
+    "RTR",
+    "GCG"
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "C": "technova:basic_circuit",
+    "R": "minecraft:redstone",
+    "T": "technova:energy_tablet"
+  },
+  "result": {
+    "id": "technova:energy_upgrade",
+    "count": 1
+  }
+}

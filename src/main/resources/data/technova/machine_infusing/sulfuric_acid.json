@@ -1,0 +1,8 @@
+{
+  "a": "sulfur_trioxide",
+  "b": "water",
+  "a_amount": 10,
+  "b_amount": 10,
+  "out": "sulfuric_acid",
+  "out_amount": 10
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    " I ",
+    " S "
+  ],
+  "key": {
+    "C": "technova:basic_circuit",
+    "I": "minecraft:iron_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "technova:configurator",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "machine": "smelter",
+  "input": "minecraft:cobblestone",
+  "input_count": 1,
+  "result": "minecraft:stone",
+  "result_count": 1,
+  "chemical_amount": 0
+}

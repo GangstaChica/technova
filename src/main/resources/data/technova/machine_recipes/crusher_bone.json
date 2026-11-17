@@ -1,0 +1,8 @@
+{
+  "machine": "crusher",
+  "input": "minecraft:bone",
+  "input_count": 1,
+  "result": "minecraft:bone_meal",
+  "result_count": 6,
+  "chemical_amount": 0
+}

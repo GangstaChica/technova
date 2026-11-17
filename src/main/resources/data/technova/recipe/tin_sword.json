@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#",
+    "#",
+    "S"
+  ],
+  "key": {
+    "#": "technova:tin_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "technova:tin_sword",
+    "count": 1
+  }
+}

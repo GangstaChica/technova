@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "technova:uranium_ingot"
+  },
+  "result": {
+    "id": "technova:uranium_block",
+    "count": 1
+  }
+}

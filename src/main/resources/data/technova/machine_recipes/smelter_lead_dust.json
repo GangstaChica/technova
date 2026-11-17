@@ -1,0 +1,8 @@
+{
+  "machine": "smelter",
+  "input": "technova:lead_dust",
+  "input_count": 1,
+  "result": "technova:lead_ingot",
+  "result_count": 1,
+  "chemical_amount": 0
+}

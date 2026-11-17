@@ -1,0 +1,8 @@
+{
+  "machine": "injection",
+  "input": "technova:lead_crystal",
+  "input_count": 1,
+  "result": "technova:lead_shard",
+  "result_count": 1,
+  "chemical_amount": 100
+}

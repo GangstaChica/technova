@@ -1,0 +1,8 @@
+{
+  "a": "sulfur_dioxide",
+  "b": "oxygen",
+  "a_amount": 10,
+  "b_amount": 5,
+  "out": "sulfur_trioxide",
+  "out_amount": 10
+}

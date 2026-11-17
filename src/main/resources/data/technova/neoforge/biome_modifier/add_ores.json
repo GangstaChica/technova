@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "technova:ore_tin",
+    "technova:ore_lead",
+    "technova:ore_sulfur",
+    "technova:ore_salt",
+    "technova:ore_uranium"
+  ],
+  "step": "underground_ores"
+}

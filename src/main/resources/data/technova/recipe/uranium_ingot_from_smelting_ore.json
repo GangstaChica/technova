@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "technova:uranium_ore",
+  "result": {
+    "id": "technova:uranium_ingot"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

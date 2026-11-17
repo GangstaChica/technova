@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IBI",
+    "ECE",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "E": "technova:basic_circuit",
+    "C": "technova:machine_casing",
+    "B": "minecraft:bucket"
+  },
+  "result": {
+    "id": "technova:purification_chamber",
+    "count": 1
+  }
+}

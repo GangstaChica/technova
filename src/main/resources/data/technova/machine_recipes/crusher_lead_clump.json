@@ -1,0 +1,8 @@
+{
+  "machine": "crusher",
+  "input": "technova:lead_clump",
+  "input_count": 1,
+  "result": "technova:lead_dust",
+  "result_count": 1,
+  "chemical_amount": 0
+}

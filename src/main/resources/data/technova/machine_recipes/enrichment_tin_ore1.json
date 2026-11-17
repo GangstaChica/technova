@@ -1,0 +1,8 @@
+{
+  "machine": "enrichment",
+  "input": "technova:deepslate_tin_ore",
+  "input_count": 1,
+  "result": "technova:tin_dust",
+  "result_count": 2,
+  "chemical_amount": 0
+}

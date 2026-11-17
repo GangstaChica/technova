@@ -1,0 +1,8 @@
+{
+  "machine": "enrichment",
+  "input": "technova:uranium_ore",
+  "input_count": 1,
+  "result": "technova:uranium_dust",
+  "result_count": 2,
+  "chemical_amount": 0
+}

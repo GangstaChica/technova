@@ -1,0 +1,8 @@
+{
+  "machine": "injection",
+  "input": "technova:gold_crystal",
+  "input_count": 1,
+  "result": "technova:gold_shard",
+  "result_count": 1,
+  "chemical_amount": 100
+}

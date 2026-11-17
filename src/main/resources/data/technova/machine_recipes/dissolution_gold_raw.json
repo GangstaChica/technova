@@ -1,0 +1,8 @@
+{
+  "machine": "dissolution",
+  "input": "minecraft:raw_gold",
+  "input_count": 1,
+  "result": "technova:gold_crystal",
+  "result_count": 5,
+  "chemical_amount": 200
+}

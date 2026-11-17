@@ -1,0 +1,8 @@
+{
+  "machine": "crusher",
+  "input": "minecraft:copper_ingot",
+  "input_count": 1,
+  "result": "technova:copper_dust",
+  "result_count": 1,
+  "chemical_amount": 0
+}

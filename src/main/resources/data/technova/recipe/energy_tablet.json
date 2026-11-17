@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RGR",
+    "RGR",
+    "RGR"
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "G": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "technova:energy_tablet",
+    "count": 1
+  }
+}

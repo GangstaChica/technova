@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IKI",
+    "ECE",
+    "IFI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "E": "technova:basic_circuit",
+    "C": "technova:machine_casing",
+    "K": "minecraft:coal",
+    "F": "minecraft:flint"
+  },
+  "result": {
+    "id": "technova:chemical_oxidizer",
+    "count": 1
+  }
+}

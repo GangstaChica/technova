@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "technova:block/uranium_block"
+    }
+  }
+}

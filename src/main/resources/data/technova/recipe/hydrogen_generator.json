@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ITI",
+    "ECE",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "E": "technova:basic_circuit",
+    "C": "technova:machine_casing",
+    "T": "technova:chemical_tank"
+  },
+  "result": {
+    "id": "technova:hydrogen_generator",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ITI",
+    "TCT",
+    "ITI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "T": "technova:energy_tablet",
+    "C": "technova:machine_casing"
+  },
+  "result": {
+    "id": "technova:energy_cube",
+    "count": 1
+  }
+}

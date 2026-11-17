@@ -1,0 +1,8 @@
+{
+  "machine": "enrichment",
+  "input": "minecraft:iron_ore",
+  "input_count": 1,
+  "result": "technova:iron_dust",
+  "result_count": 2,
+  "chemical_amount": 0
+}

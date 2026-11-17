@@ -1,0 +1,8 @@
+{
+  "machine": "smelter",
+  "input": "minecraft:copper_ore",
+  "input_count": 1,
+  "result": "minecraft:copper_ingot",
+  "result_count": 1,
+  "chemical_amount": 0
+}

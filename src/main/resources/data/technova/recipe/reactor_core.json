@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LUL",
+    "UCU",
+    "LUL"
+  ],
+  "key": {
+    "L": "technova:lead_ingot",
+    "U": "technova:uranium_ingot",
+    "C": "technova:basic_circuit"
+  },
+  "result": {
+    "id": "technova:reactor_core",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "machine": "injection",
+  "input": "minecraft:raw_copper",
+  "input_count": 1,
+  "result": "technova:copper_shard",
+  "result_count": 4,
+  "chemical_amount": 100
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IFI",
+    "ECE",
+    "IFI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "E": "technova:basic_circuit",
+    "C": "technova:machine_casing",
+    "F": "minecraft:furnace"
+  },
+  "result": {
+    "id": "technova:electric_furnace",
+    "count": 1
+  }
+}

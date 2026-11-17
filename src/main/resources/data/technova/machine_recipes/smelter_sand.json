@@ -1,0 +1,8 @@
+{
+  "machine": "smelter",
+  "input": "minecraft:sand",
+  "input_count": 1,
+  "result": "minecraft:glass",
+  "result_count": 1,
+  "chemical_amount": 0
+}

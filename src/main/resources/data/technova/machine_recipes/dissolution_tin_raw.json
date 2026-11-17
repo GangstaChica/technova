@@ -1,0 +1,8 @@
+{
+  "machine": "dissolution",
+  "input": "technova:raw_tin",
+  "input_count": 1,
+  "result": "technova:tin_crystal",
+  "result_count": 5,
+  "chemical_amount": 200
+}

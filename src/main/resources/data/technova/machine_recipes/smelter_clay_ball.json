@@ -1,0 +1,8 @@
+{
+  "machine": "smelter",
+  "input": "minecraft:clay_ball",
+  "input_count": 1,
+  "result": "minecraft:brick",
+  "result_count": 1,
+  "chemical_amount": 0
+}
